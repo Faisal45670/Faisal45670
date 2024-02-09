@@ -1,12 +1,12 @@
-<h1 align="center">Hi ❤️, I'm Joy Matubber</h1>
+<h1 align="center">Hi ❤️, Faisal Ahmed</h1>
 <h2 align="center"> Associate Software Engineer @ Brain Station 23 </h1>
 <h3 align="center"> Full Stack Developer </h3>
 
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 - 🌱 I’m currently learning **Liquid (JavaScript template engine), React  and Problem Solving**
 
-- 📫 How to reach me **joy.matubber@Brainstation-23.com**
-- 📫 How to reach me **rana20-41959-1@gmail.com**
+- 📫 How to reach me ** **
+- 📫 How to reach me ** **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
